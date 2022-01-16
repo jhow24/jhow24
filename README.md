@@ -1,6 +1,7 @@
 ### Hi there 👋 i am Johnathan Rodrigues
 
-- 🌱 I’m currently learning Web development and programming
+- 🌱 I'm a Software Engineering student
+- 🌱 Knowledge in WEB Development (HTML,CSS,javascritp)
 - 📫 How to reach me: @jhowjo24@gmail.com
 - ⚡ Fun fact: i love comic books
 
