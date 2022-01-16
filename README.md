@@ -3,7 +3,7 @@
 - 🌱 I'm a Software Engineering student
 - 🌱 Knowledge in WEB Development (HTML,CSS,javascritp)
 - 📫 How to reach me: @jhowjo24@gmail.com
-- ⚡ Fun fact: i love comic books
+- ⚡ Fun fact: i believe in aliens
 
  <div>
   <a href="https://github.com/jhow24">
