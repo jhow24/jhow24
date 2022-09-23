@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Johnathan Rodrigues
 
-- 🌱 I'm a Software Engineering student
-- 🌱 Knowledge in HTML,CSS,javascritp,Java,Angular
+- 🌱 I'm a Software Engineering student and solution Analyst level 1
+- 🌱 Knowledge in Web Devlopment,Java,Angular and Spring
 - 📫 How to reach me: @jhowjo24@gmail.com
 - ⚡ Fun fact: i believe in aliens
 
@@ -12,7 +12,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
