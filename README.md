@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Johnathan Rodrigues
 
 - 🌱 I'm a Software Engineering student
-- 🌱 Knowledge in WEB Development (HTML,CSS,javascritp)
+- 🌱 Knowledge in HTML,CSS,javascritp,Java,Angular
 - 📫 How to reach me: @jhowjo24@gmail.com
 - ⚡ Fun fact: i believe in aliens
 
