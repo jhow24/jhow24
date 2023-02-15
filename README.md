@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Johnathan Rodrigues
 
 - 🌱 I'm a Software Engineering student and solution Analyst level 1
-- 🌱 Knowledge in Web Devlopment,Java,Angular and Spring
+- 🌱 Knowledge in Web Devlopment,Java,Angular,Spring and COBOL
 - 📫 How to reach me: @jhowjo24@gmail.com
 - ⚡ Fun fact: i believe in aliens
 
